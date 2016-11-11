@@ -1,0 +1,5 @@
+I want to, import metadata in my records into the repository in VRA Core 4.0. So that I can do my cataloging in another platform and import it into the repository without having to crosswalk or map the metadata.
+I want to, batch import metadata into the repository in XML. So that I can use load multiple metadata records at one time.
+I want to, use URIs from the Getty's Art and Architecture Thesaurus (AAT). So that the metadata in my record is linked to the AAT.
+I want to, add a work record (metadata) without adding a digital file. So that I can add a work record to multiple items at a time and add specific information per item later.
+I want to, view a submitted batch and view individual records and assign metadata to records I select from one to many. So that I can add metadata to multiple records at a time.

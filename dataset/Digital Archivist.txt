@@ -1,0 +1,9 @@
+I want to, be able to create a multi-stage workflow that different individuals can access at defined points. So that Records creators with a mandate to deposit university records, or the archivist, can initiate a records deposit, records creators or the archivist can add records and metadata, and the archivist can review before final ingest.
+I want to, export preservation metadata in MODS. So that descriptive metadata in MODS format can be combined with Premis and included with digital objects for long-term preservation.
+I want to, import descriptive metadata relating to digital archival collections from EAD Finding Aids. So that I can use descriptive information created in EAD finding aids to describe objects in the digital repository.
+I want to, be notified when any part of a digital object's bitstream changes (from its original checksum). So that I can ensure the fixity of objects in the digital library by comparing any checksum changes.
+I want to, receive checksum reports for deposited objects and submission information packages. So that I can add this information to our accession reports.
+I want, it to be clear that a work I am submitting is not necessarily created by me by being able to suppress contributor in the public image, or otherwise make it clear this is an archival submission. So that it is clear who the original publisher/creator is.
+I want to, add a work record (metadata) without adding a digital file. So that I can add a work record to multiple items at a time and add specific information per item later.
+I want to, view a submitted batch and view individual records and assign metadata to records I select from one to many. So that I can add metadata to multiple records at a time.
+I want to, submit large groups of different records at once. So that I can minimize the number of submissions I have to process.

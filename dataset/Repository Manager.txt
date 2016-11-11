@@ -1,0 +1,8 @@
+I want to, export digital objects and their metadata as an archival information package at the bit-level. So that I have an exact bit-level copy of the repository objects.
+I want to, have old content in the repository scanned for malware, as virus definitions are updated. So that: I am certain that the content in the repository doesn't contain any new malware.
+I want to, know when a creator for a record or object is no longer affiliated with the university. So that I am alerted when any logins are no longer associated with someone at the university.
+I want to create an automatic metadata change for objects/metadata deposited by someone who no longer has a UC affiliation. So that when users arrive at a object, they do not send an email to outdated UC contact information.
+I want to, Have new content in the repository scanned for malware. So that I am certain that the content in new submissions is malware free.
+I want to be able to create customized workflows for other users of the repository. So that, not all users have to do the same set of steps -- some may be handled by me.
+I want to, be able to identify broken HTML links in metadata. So that I can decide whether to remove or redirect broken links.
+I want to, get reports about object creation, object page views, content downloads, and search activity. So that I can see how much the repository is being used.

@@ -1,0 +1,50 @@
+I want to, nominate a URL for a webpage that has historical significance. So that a digital archivist can review the nomination to determine if it fits the criteria for further ingest into web archiving activities.
+I want to, have an RSS feed to monitor new content deposited by author, category, format, keyword, college. So that I know when new content has been deposited.
+I want to, be able to automatically export the item's citation to a citation management program (e.g., Zotero, RefWorks, EndNote). So that I can capture the citation with one click.
+I want to, click on a button to generate a citation of the item (a screen that I can then copy and paste from, for example), and choose the citation format (MLA, Turabian, APA, etc). So that, I get a citation viewable on my screen.
+I want to, view documents in a book viewer and turn pages. So that I don’t have to open individual pages of a digitized work (such as a rare book).
+I want to, allow others to view my .jp2 and .jpx files in an image viewer. So that Others can see my files and take advantage JPEG 2000 features such as fast browsing, panning, zooming in/out on image details.
+I want to, be able to play an audio or video file in the repository. So that I do not have to download something to listen or watch it.
+I want to,  be able to deep zoom and pan on large, high-resolution images. So that I don’t have to download a large image file to be able to zoom or pan.
+I want to, import metadata in my records into the repository in Darwin Core. So that I can reuse my metadata from other subject specific discipline repositories like DRYAD without having to manually re-enter it.
+I want to, categorize my items in my collections or groups along parameters I define, such as format, author, or keyword. So that my virtual collection is automatically created with works per the rules I have created (e.g., all of my works tagged with the keyword 'Communism').
+I want to, select specific items I see in the repository for an online exhibit. So that my exhibit may contain works from different depositors, collections, or groups, but it is clear that this is my own assemblage of works from others.
+I want to, Submit and organize articles in a structure that reflects the organization of journals. So that Users can browse my journal in an intuitive manner.
+I want to, do a keyword search for items that match my query and know where in the item that word appears. So that the search results show the contextual placement of the word within the item or its metadata.
+I want to, search the text of objects within the repository. So that if my search term is contained within the text of an object within the repository, the result will be included in the set of relevant results.
+I want to, perform searches on specified metadata fields. So that I can limit the scope of my search to a single metadata field.
+I want to, limit my search by a particular facet. So that I can limit an existing search to include only results with a specified, existing heading.
+I want to, use keyword searching to search every field in all the records. So that I can find stuff related to the terms I'm searching for.
+I want to, see more relevant results for my keyword search. So that I can find things that are more meaningfully related to my search.
+I want to, know what the best link is for sharing with other people. So that I can share a stable URL to other people.
+I want to, see how search results are being sorted. So that I can better understand the results of my search.
+I want to, see what other works were created by the creator of a work. So that I can find other works created by a user.
+I want to, see content before downloading it. So that I can evaluate or read content without downloading it.
+I want to, search terms to be parsed. So that punctuation and other related forms are treated as white-space or stemmed as appropriate.
+I want to, Numerical search terms to be searched. So that I can search for meaningful numerical data, such as Latitude-Longitude geographic subjects.
+I want to, subject results to be clustered. So that results with semantically related subjects are grouped.
+I want to, the search interface to search subject fields. So that search will be improved.
+I want to, see how big files are. So that I'll know how big a file is before I download it.
+I want, Scholar to index file names/file titles for keyword searching. So that searching by the file name returns my work in the search results.
+I want to, create a permanent DOI to use for sharing and referencing my work. So that regardless of the history of the repository, the same URL will always connect to my work.
+I want to, restrict certain submissions to on-campus or authenticated UC users. So that I can fulfill restrictions about how content is allowed to be shared.
+I want to, log into the repository with my UC central login. So that I don't have to create another account, so that appropriate rights are assigned to my account without having to work with journal staff, and so I don't need to manage my account details.
+I want to, know that when I update/change my password that it should be 8 characters long before I click ‘Update Account’. So that I do not enter in a password that is less than the required length.
+I want to, stay on profile page after updating password. So that I can make more changes to my profile.
+I want to, click a ‘Log Out’ button instead of navigating to my name and clicking ‘Log Out’. So that It is easier to find and faster to log out.
+I want,the title field to auto-populate with my file name after attaching an additional file to an existing record/work. So that I do not accidentally upload an additional file to my work without some kind of title.
+I want to, change my file name at the time of initial creation of a work. So that I do not have to go back and edit the file name later.
+I want to make my submission private but delegate permission to view my work to certain individuals. So that I can share my work with a small audience until the item is ready for greater access.
+I want to clearly identify the file-upload dialog. So that I don't accidentally submit a work without attaching a file.
+I want,To batch upload and preserve parent-child folder structure without submitting a zip file. So that I can preserve relationships between files within the work.
+I want to, see a mention and/or link to the university's intellectual property policies. So that I understand how the legal language in the digital repository fit in with the larger university intellectual property policies.
+I want guidance on whether my copyrighted materials can be placed in the repository. So that I can still preserve my own copyrighted materials.
+I want to enter the journal title in which my work was originally published. So that I know whether I may deposit my copyrighted or previously published work.
+I want,a "plain English" summary of the distribution license. So that I can get the highlights.
+I want to, have better subject headings in the distribution license. So that I can read the sections that most pertain to my concerns.
+I want to, be alerted when the terms of use and distribution license change. So that I do not have to seek out these changes on my own.
+I want to, understand what would happen if UC's digital repository shut down. So that I do not have to worry my material might disappear one day.
+I want to, be able to easily find the distribution license I saw when I submitted content. So that I can review the distribution content.
+I want to, have my embargoed content go public once my article is published. So that my content in the repository is not available before the official date of publication in another venue.
+I want to, fill out a survey/use a tool to determine the Creative Commons license that fits my needs. So that I choose the right type of license appropriate to my content and expectations.
+I want to, assign different rights to different files associated with my work. So that not all of my files associated with a work have the same level of rights.

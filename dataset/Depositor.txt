@@ -1,0 +1,38 @@
+I want to, be able to deposit my files as-is without breaking them up. So that the files maintain their integrity.
+I want to, be warned when a process could take a long time. So that I can decide if my planned method of upload is feasible.
+I want to, deposit the files packaged together with information about their relationship (e.g., master data set in native format, a use copy of the same data in an open format, associated metadata files, etc). So that I can do a one-time deposit of my files packaged together.
+I want to, have an RSS feed to re-use (for example, so I can place a feed on my personal website directing users to all instances of my work in the repository). So that I can use a URL for an RSS feed that will work elsewhere.
+I want to, to upload XML documents with TEI encoding. So that I can display and preserve my TEI encoding.
+I want to, be able to format text in the metadata submission fields. So that I can bold, underline, or italicize text important within the context of my work, and insert URLs where appropriate.
+I want, the file size information to be displayed next to the files associated with my work. So that users are aware of how large files may be.
+I want to, temporarily enable password-based access to a data set. So that another user can download it only when I approve the download.
+I want to, include my ORCID ID in dc.creator or dc.contributor fields. So that my work is connected to my ORCID profile and more easily found.
+I want to, be able to create sub-collections within my collection. So that I can organize materials by any sub-grouping I decide.
+I want to, Assign specific collections to a group. So that items in my collection are also part of a group.
+I want to, filter my search results by subject, discipline, etc. So that I can easily navigate my search results and make them more meaningful.
+I want to, see information about file rollback. So that I can understand what it means to rollback a file.
+I want, my graduate student proxy submitter to be able to fill out certain fields and other fields to be left blank so I can fill them in. The submission is held in a queue until I can review it. So that I can ensure certain fields are managed by me.
+I want to, be able to create “submission templates” that always pre-populate certain fields with boilerplate text of my choosing. So that I can ensure metadata consistency when I am working on large projects with the same provenance/characteristics.
+I want to, add a work record (metadata) without adding a digital file. So that I can add a work record to multiple items at a time and add specific information per item later.
+I want to, view a submitted batch and view individual records and assign metadata to records I select from one to many. So that I can add metadata to multiple records at a time.
+I want to, be able to deposit versions of the same work under the same metadata/catalog record. So that it is clear which version is older/newer.
+I want, to be able to upload a video. So that my content will be viewable.
+I want a glossary to explain collection, group, etc. So that I will understand the terms and choose the correct option for my work.
+I want, a list of acceptable file formats for each work type. So that I know if my file will upload successfully.
+I want, a list of maximum file sizes. So that I know if my file will upload successfully.
+I want, to assign a thumbnail image for my work when I upload files (especially for video). So that I can choose the thumbnail image that displays to users when they search.
+I want to, be able to reuse metadata from my previous submissions to populate my current input form. So that I don’t have to manually re-enter identical metadata on multiple input forms for works that are very similar.
+I want to, batch upload multiples files and associated metadata, including connections through cloud storage (Google Drive, Dropbox, Box). So that I don’t have to manually upload multiples files and re-enter similar metadata.
+I want to, copy/paste my abstract from another source into the input form and have the original formatting transfer. So that my abstract has consistent formatting across platforms.
+I want, to change the typescript of my metadata record. So that I can customize the appearance of my metadata.
+I want to, use italics in my metadata record. So that I can use italics when I need to (such as for scientific names).
+I want to, use diacritics or special characters in my metadata record. So that I can correctly input symbols, foreign language names and words in my record.
+I want to, use an RIS (bibliographic software interchange file format) file and upload article citation information from Zotero. So that I don’t have to re-enter metadata and my metadata will be consistent across platforms.
+I want, the input form to visually flag which specific fields need to be filled out if I submit an incomplete record. So that I don’t have to click on each field to see if it is required.
+I want, a warning that I should close out any open files before hitting submit. So that I upload the appropriate documents for my work.
+I want an indicator that the system is “thinking” and the upload is still in progress. So that I know the status of the upload of my content.
+I want the SHERPA ROMEO link to open in a new window. So that I won’t lose data entered in the submission form fields if I press the back button on the current window.
+I want to, control what fields others can edit who have access to my work. So that Not all people who have access to my work can edit all of the fields.
+I want to, see how many times my content has been accessed. So that I can see how much my content is being used, and share that information with other users, if desired.
+I want to, receive reports on how many times my content has been accessed. So that I can keep track of how much my content is being used, and share that information with other users, if desired.
+I want, my content to be discoverable through Google Scholar. So that my work reaches more audiences.
